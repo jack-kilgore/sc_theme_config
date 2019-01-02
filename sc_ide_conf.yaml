@@ -1,0 +1,119 @@
+IDE:
+  editor:
+    blinkDuration: 300
+    font:
+      antialias: 2
+      family: Menlo
+      size: 12
+    indentWidth: 4
+    lineWrap: true
+    spaceIndent: false
+    stepForwardEvaluation: false
+    theme: monokai
+    themes:
+      monokai:
+        built-in: !textFormat
+          color: "#66d9ef"
+          italic: false
+        char: !textFormat
+          color: "#ae81ff"
+          italic: false
+        class: !textFormat
+          color: "#a2c47d"
+          italic: false
+        comment: !textFormat
+          color: "#75715e"
+          italic: false
+        currentLine: !textFormat
+          color: "#000000"
+          background: "#cccccc"
+          italic: false
+        env-var: !textFormat
+          color: "#66d9ef"
+          italic: false
+        evaluatedCode: !textFormat
+          color: "#e2e2e0"
+          background: "#364a5c"
+        keyword: !textFormat
+          color: "#cc4f7c"
+          bold: true
+          italic: false
+        lineNumbers: !textFormat
+          color: "#75715e"
+          background: "#272822"
+          bold: true
+        matchingBrackets: !textFormat
+          bold: true
+        mismatchedBrackets: !textFormat
+          color: "#ffffff"
+          background: "#960000"
+          italic: false
+        number: !textFormat
+          color: "#3882c1"
+          italic: false
+        postwindowemphasis: !textFormat
+          color: "#f6f6f0"
+          bold: true
+          italic: false
+        postwindowerror: !textFormat
+          color: "#d11c24"
+          italic: false
+        postwindowsuccess: !textFormat
+          color: "#a5e12e"
+          italic: false
+        postwindowtext: !textFormat
+          color: "#eeeeec"
+          italic: false
+        postwindowwarning: !textFormat
+          color: "#e5da74"
+          italic: false
+        primitive: !textFormat
+          color: "#aeb2ff"
+          italic: false
+        searchResult: !textFormat
+          color: "#e2e2e0"
+          background: "#49483e"
+        selection: !textFormat
+          color: "#e2e2e0"
+          background: "#49483e"
+        string: !textFormat
+          color: "#e6db74"
+          italic: false
+        symbol: !textFormat
+          color: "#7756a5"
+          italic: false
+        text: !textFormat
+          color: "#e2e2e0"
+          background: "#1e1e1e"
+        whitespace: !textFormat
+          color: "#7b7b7b"
+          italic: false
+  interpreter:
+    autoStart: true
+    configFile: /Users/jkilgore/Library/Application Support/SuperCollider/sclang_conf.yaml
+    runtimeDir: ""
+    standalone: false
+  mainWindow:
+    detached: !QVariantMap
+      documents-dock: ""
+      help-dock: ""
+      post-dock: ""
+    geometry: AdnQywACAAAAAAAAAAAAJAAABZ8AAANeAAAAAAAAADoAAAWfAAADXgAAAAAAAAAABaA=
+    state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF4A////AAAAAQAAAcUAAAMK/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsBAAAAAAAAAb4AAABMAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAAb8AAAFLAAAATAD///8AAAPaAAADCgAAAAEAAAACAAAAAQAAAAL8AAAAAA==
+  postWindow:
+    lineWrap: false
+    scrollback: 1000
+  recentDocuments: !QVariantList
+    - /Users/jkilgore/Documents/sketches/supercollider/patternGranulator/filterExperiments.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/tutorial/SuperCollider Book/Ch5_Programming_in_SC.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/patternGranulator/patternsGranulator.scd
+    - /Users/jkilgore/Documents/sketches/fall_2018_dawtogether/glass_spoon_dawtogether/sc-sketches.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/patternGranulator/grainExpansion.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/patternGranulator/feedbackExperiments.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/patternGranulator/microExperiments.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/patternGranulator/FilterExperiments.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/tutorial/SuperCollider Book/Chapter 16 Microsound.scd
+    - /Users/jkilgore/Documents/sketches/supercollider/ambient set/ambient set2.0.scd
+  shortcuts:
+    synth-server-record: Alt+Shift+R
+  startWithSession: last
